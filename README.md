@@ -15,7 +15,7 @@ Here's a list of projects I have tackled to date (📊 and 🤖 denote whether t
 
 1. 🐲[Pokémon](1_Pokemon) - 📊: Explored a Pokémon dataset, conducting in-depth statistical and visual analysis to unveil patterns and quirks in their characteristics.
 
-2. 🛳️[Titanic](2_Titanic) - 📊🤖: Developed a binary classification model of the Titanic dataset to predict passenger survival of the shipwreck.
+2. 🛳️[Titanic](2_Titanic) - 🤖: Developed a binary classification model of the Titanic dataset to predict passenger survival of the shipwreck.
 
 4. 🏘️[Housing Price Prediction](3_Housing%20prices) - 📊🤖: Developed a regression model to predict housing prices based on various features.
 
