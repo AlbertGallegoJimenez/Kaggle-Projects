@@ -17,9 +17,11 @@ Here's a list of projects I have tackled to date (📊 and 🤖 denote whether t
 
 2. 🛳️[Titanic](2_Titanic) - 🤖: Developed a binary classification model of the Titanic dataset to predict passenger survival of the shipwreck.
 
-4. 🏘️[Housing Price Prediction](3_Housing%20prices) - 📊🤖: Developed a regression model to predict housing prices based on various features.
+3. 🏘️[Housing Price Prediction](3_Housing%20prices) - 📊🤖: Developed a regression model to predict housing prices based on various features.
 
-5. 🎥[IMDb movies](4_IMDb%20movies) - 📊: Explored an IMDb movies dataset, conducting a comprehensive data pre-processing and an in-depth statistical analysis to find valuable patterns.   
+4. 🎥[IMDb movies](4_IMDb%20movies) - 📊: Explored an IMDb movies dataset, conducting a comprehensive data pre-processing and an in-depth statistical analysis to find valuable patterns.
+   
+5. ⛅[Daily atmospheric data](5_Daily%20atmospheric%20data) - 📊🤖: Developed a regression model capable of predicting atmospheric data with strong seasonality. Machine Learning (Random Forest), Deep Learning (LSTM and CNN+LSTM) and ARIMA models have been explored.
 
 ## Contact
 
