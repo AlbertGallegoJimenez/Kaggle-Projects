@@ -22,6 +22,8 @@ Here's a list of projects I have tackled to date (📊 and 🤖 denote whether t
 4. 🎥[IMDb movies](4_IMDb%20movies) - 📊: Explored an IMDb movies dataset, conducting a comprehensive data pre-processing and an in-depth statistical analysis to find valuable patterns.
    
 5. ⛅[Daily atmospheric data](5_Daily%20atmospheric%20data) - 📊🤖: Developed a regression model capable of predicting atmospheric data with strong seasonality. Machine Learning (Random Forest), Deep Learning (LSTM and CNN+LSTM) and ARIMA models have been explored.
+   
+6. 🫀[Heart failure prediction](6_Heart%20failure%20prediction)- 📊🤖: Developed a binary classification model to predict whether a patient will die of heart failure or not based on various characteristics such as age, sex, smoker or not, blood pressure, diabetic or not, etc.
 
 ## Contact
 
